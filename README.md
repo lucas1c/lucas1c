@@ -19,3 +19,17 @@
 
 
 </body>
+
+
+
+
+
+
+CSS
+body{
+    color:yellow;
+    background:purple;
+}
+
+
+
